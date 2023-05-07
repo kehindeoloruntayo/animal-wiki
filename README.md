@@ -1,5 +1,5 @@
 # _Animal Wiki_
-### _Animal wiki is a webpage where you input any animal of your choice and get unformation about that anmimal_
+### _Animal wiki is a webpage where you input any animal of your choice to get unformation about that animal_
 
 ## Technology used
 * _GIT_
@@ -8,7 +8,7 @@
 * _BOOTSTRAP_
 * _JAVASCRIPT_
 * _JQUERY_
-VVHVHJVHJVJH
+
 ## Contact
 * _NAME: Oloruntayo Kehinde_
 * _PHONE: 07043741067_
